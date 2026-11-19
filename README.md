@@ -2,6 +2,7 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/Weretik/architecture-review-portfolio)](https://github.com/Weretik/architecture-review-portfolio/commits/main)
 ![Format: documents](https://img.shields.io/badge/format-documents%20only-informational)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
 How I review and improve the architecture of production systems: the checklist I use, a real before → after case, and the architecture rules I build against. Documents only: no code and no confidential client data.
 
@@ -80,3 +81,7 @@ flowchart LR
 ## Author
 
 Built by [Vitaliy Tsiupin](https://www.linkedin.com/in/vitaliythupin/), full-stack .NET + React developer. I build and run production systems for small businesses, and review them with this checklist.
+
+## License
+
+The documents are licensed under [CC BY 4.0](LICENSE): you may copy and adapt them with credit to the author.
