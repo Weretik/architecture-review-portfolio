@@ -1,8 +1,8 @@
 # Architecture Review Portfolio
 
-I am Vitalii, a full-stack developer (.NET + React). I design, build and run two production business systems: modular monoliths on ASP.NET Core and PostgreSQL in Google Cloud Run, with a React admin, a Next.js public site and a typed client generated from OpenAPI.
+How I review and improve the architecture of production systems. Documents only, no code and no client data.
 
-This repository shows how I review and improve architecture. It has documents only, no code and no client data.
+The reviewed systems are two modular monoliths on ASP.NET Core and PostgreSQL in Google Cloud Run, with a React admin, a Next.js public site and a typed client generated from OpenAPI.
 
 | File | What it shows |
 | --- | --- |
