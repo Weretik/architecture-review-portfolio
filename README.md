@@ -1,6 +1,11 @@
 # Architecture Review Portfolio
 
-How I review and improve the architecture of production systems: the checklist I use, a real before → after case, and the architecture rules I build against. Documents only, no code and no client data.
+[![Last commit](https://img.shields.io/github/last-commit/Weretik/architecture-review-portfolio)](https://github.com/Weretik/architecture-review-portfolio/commits/main)
+![Format: documents](https://img.shields.io/badge/format-documents%20only-informational)
+
+How I review and improve the architecture of production systems: the checklist I use, a real before → after case, and the architecture rules I build against. Documents only: no code and no confidential client data.
+
+**Who it is for:** tech leads, hiring managers and clients who want to see how I find architecture problems, decide what to fix and prove the result with numbers.
 
 ## Highlights
 
@@ -71,3 +76,7 @@ flowchart LR
 1. **Targets first.** No verdict on speed or reliability without numbers.
 2. **Facts, then decisions.** A review records what is there, with evidence. A separate step decides what to fix, when and at what cost.
 3. **Rules become checks.** Every important rule becomes a test or a CI step, so it cannot quietly break again.
+
+## Author
+
+Built by [Vitaliy Tsiupin](https://www.linkedin.com/in/vitaliythupin/), full-stack .NET + React developer. I build and run production systems for small businesses, and review them with this checklist.
